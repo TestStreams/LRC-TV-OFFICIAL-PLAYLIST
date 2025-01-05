@@ -647,19 +647,27 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" tvg-logo="",Fox Sports 2
 https://list.iptvcat.com/my_list/s/970e5a778af9e8c6f94a36ab15f88884.m3u8
+#EXTM3U
 #EXTINF:-1,USA VIP: MSG 2 Plus
 http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16550
+#EXTM3U
 #EXTINF:-1,USA VIP: MSG Network
 http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16549
+#EXTM3U
 #EXTINF:-1,USA VIP: MSG Plus
 http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16548
+#EXTM3U
 #EXTINF:-1,USA VIP: MSG2
 http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16547
-#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [FHD]
-http://tvpanel.one:80/live/den9179/611carc/586761.m3u8
-#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [HD]
-http://tvpanel.one:80/live/den9179/611carc/586762.m3u8
-#EXTINF:-1 ,SKY SPORTS FOOTBALL [FHD]
-http://tvpanel.one:80/live/den9179/611carc/586763.m3u8
-#EXTINF:-1 ,SKY SPORTS FOOTBALL [HD]
-http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="SkySports1" tvg-name="Sky Sports 1 (Backup)" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg",Sky Sports 1 (Backup)
+http://s1.wssiptv.com/live/VIPWSS/Pjwusoiu8/110.ts?freeiptvlinks.com
+#EXTM3U
+#EXTINF:-1 tvg-id="SkySports1Link1" tvg-name="Sky Sports 1 (P) SD - Link 1" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg",Sky Sports 1 (P) SD - Link 1
+rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/ playpath=doregex[path] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to/view/68713/Sky_Sport_1_%28HD%29-live-stream-channel-for-free
+#EXTM3U
+#EXTINF:-1 tvg-id="SkySports1Link2" tvg-name="Sky Sports 1 (P) SD - Link 2" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg",Sky Sports 1 (P) SD - Link 2
+rtmp://80.82.64.140:443/liverepeater playpath=67 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=67&width=650&height=470 token=#atd%#$ZH
+#EXTM3U
+#EXTINF:-1 tvg-id="SkySports1Link3" tvg-name="Sky Sports 1 (P) SD - Link 3" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg",Sky Sports 1 (P) SD - Link 3
+rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=1 timeout=10
