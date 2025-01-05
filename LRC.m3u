@@ -639,3 +639,11 @@ https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="ACCDigitalNetwork" tvg-name="ACC Digital Network" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ln0vPd4At0mwojq0cEF5XucwIlaFVoW4ICbftzGmJXdP0=s900-c-k-c0x00ffffff-no-rj",ACC Digital Network
 https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox_Sports" tvg-name="Fox Sports" tvg-logo="https://i.imgur.com/xA0l7DP.png",Fox Sports
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="FOX_Sports_1" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png",Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTM3U  
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" tvg-logo="https://ibb.co/230YcHy",Fox Sports 2  
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
