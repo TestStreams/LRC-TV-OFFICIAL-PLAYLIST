@@ -528,3 +528,6 @@ http://fl5.moveonjoy.com/NBA_11/index.m3u8
 http://fl5.moveonjoy.com/NBA_12/index.m3u8
 #EXTINF:-1 tvg-id="NBA13" tvg-name="NBA 13" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 13
 http://fl5.moveonjoy.com/NBA_13/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png",FOX News
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/267.m3u8
