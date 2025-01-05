@@ -500,3 +500,30 @@ http://fl2.moveonjoy.com/NHL_11/index.m3u8
 http://fl2.moveonjoy.com/NHL_12/index.m3u8
 #EXTINF:-1 tvg-id="NHL13" tvg-name="NHL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 13
 http://fl2.moveonjoy.com/NHL_13/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="NBA1" tvg-name="NBA 1" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 1
+http://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 tvg-id="NBA2" tvg-name="NBA 2" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 2
+http://fl5.moveonjoy.com/NBA_2/index.m3u8
+#EXTINF:-1 tvg-id="NBA3" tvg-name="NBA 3" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 3
+http://fl5.moveonjoy.com/NBA_3/index.m3u8
+#EXTINF:-1 tvg-id="NBA4" tvg-name="NBA 4" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 4
+http://fl5.moveonjoy.com/NBA_4/index.m3u8
+#EXTINF:-1 tvg-id="NBA5" tvg-name="NBA 5" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 5
+http://fl5.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:-1 tvg-id="NBA6" tvg-name="NBA 6" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 6
+http://fl5.moveonjoy.com/NBA_6/index.m3u8
+#EXTINF:-1 tvg-id="NBA7" tvg-name="NBA 7" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 7
+http://fl5.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 tvg-id="NBA8" tvg-name="NBA 8" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 8
+http://fl5.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:-1 tvg-id="NBA9" tvg-name="NBA 9" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 9
+http://fl5.moveonjoy.com/NBA_9/index.m3u8
+#EXTINF:-1 tvg-id="NBA10" tvg-name="NBA 10" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 10
+http://fl5.moveonjoy.com/NBA_10/index.m3u8
+#EXTINF:-1 tvg-id="NBA11" tvg-name="NBA 11" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 11
+http://fl5.moveonjoy.com/NBA_11/index.m3u8
+#EXTINF:-1 tvg-id="NBA12" tvg-name="NBA 12" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 12
+http://fl5.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:-1 tvg-id="NBA13" tvg-name="NBA 13" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA 13
+http://fl5.moveonjoy.com/NBA_13/index.m3u8
