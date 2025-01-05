@@ -9,6 +9,9 @@ http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels",Adult Swim West
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aswest.us.m3u8
+
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="CBS East" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels",CBS East (New York)
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Live Channels",AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="Live Channels",American Heroes Channel
@@ -416,19 +419,12 @@ https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" tvg-logo="",Fox Sports 2
-https://list.iptvcat.com/my_list/s/970e5a778af9e8c6f94a36ab15f88884.m3u8
+http://cdn1host.online:2999/venomj/EmoOmOskzq/264
 #EXTM3U
-#EXTINF:-1,USA VIP: MSG 2 Plus
-http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16550
 #EXTM3U
-#EXTINF:-1,USA VIP: MSG Network
-http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16549
+#EXTINF:-1,USA VIP: MSG
+http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTM3U
-#EXTINF:-1,USA VIP: MSG Plus
-http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16548
-#EXTM3U
-#EXTINF:-1,USA VIP: MSG2
-http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16547
 #EXTM3U
 #EXTINF:-1 tvg-id="SkySports1" tvg-name="Sky Sports 1 (Backup)" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg",Sky Sports 1 (Backup)
 http://s1.wssiptv.com/live/VIPWSS/Pjwusoiu8/110.ts?freeiptvlinks.com
