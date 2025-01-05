@@ -644,8 +644,8 @@ https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="FOX_Sports_1" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTM3U  
-#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" tvg-logo="https://ibb.co/230YcHy",Fox Sports 2  
+#EXTM3U
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" tvg-logo="",Fox Sports 2
 https://list.iptvcat.com/my_list/s/970e5a778af9e8c6f94a36ab15f88884.m3u8
 #EXTINF:-1,USA VIP: MSG 2 Plus
 http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16550
