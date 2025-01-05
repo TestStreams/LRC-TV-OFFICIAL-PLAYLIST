@@ -427,14 +427,3 @@ http://cdn1host.online:2999/venomj/EmoOmOskzq/264
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 tvg-id="SkySports1" tvg-name="Sky Sports 1 (Backup)" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg",Sky Sports 1 (Backup)
-http://s1.wssiptv.com/live/VIPWSS/Pjwusoiu8/110.ts?freeiptvlinks.com
-#EXTM3U
-#EXTINF:-1 tvg-id="SkySports1Link1" tvg-name="Sky Sports 1 (P) SD - Link 1" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg",Sky Sports 1 (P) SD - Link 1
-rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/ playpath=doregex[path] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to/view/68713/Sky_Sport_1_%28HD%29-live-stream-channel-for-free
-#EXTM3U
-#EXTINF:-1 tvg-id="SkySports1Link2" tvg-name="Sky Sports 1 (P) SD - Link 2" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg",Sky Sports 1 (P) SD - Link 2
-rtmp://80.82.64.140:443/liverepeater playpath=67 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=67&width=650&height=470 token=#atd%#$ZH
-#EXTM3U
-#EXTINF:-1 tvg-id="SkySports1Link3" tvg-name="Sky Sports 1 (P) SD - Link 3" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg",Sky Sports 1 (P) SD - Link 3
-rtmp://w7.vmnode.pw:1935/live playpath=elite27 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite27.php live=1 timeout=10
