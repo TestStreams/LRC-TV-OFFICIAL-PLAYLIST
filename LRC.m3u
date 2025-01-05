@@ -425,17 +425,13 @@ http://cdn1host.online:2999/venomj/EmoOmOskzq/264
 #EXTINF:-1,USA VIP: MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN1"
+#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN1",TSN1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="TSN2" tvg-name="TSN2"
+#EXTINF:-1 tvg-id="TSN2" tvg-name="TSN2",TSN2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="TSN3" tvg-name="TSN3"
+#EXTINF:-1 tvg-id="TSN3" tvg-name="TSN3",TSN3
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="TSN4" tvg-name="TSN4"
+#EXTINF:-1 tvg-id="TSN4" tvg-name="TSN4",TSN4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="TSN5" tvg-name="TSN5"
+#EXTINF:-1 tvg-id="TSN5" tvg-name="TSN5",TSN5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
