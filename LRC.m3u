@@ -257,7 +257,8 @@ http://supersonictv.live:8080/242306/210404/22170
 http://supersonictv.live:8080/242306/210404/22171
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Live Channels",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/NFL_RedZone.svg/revision/latest?cb=20230828151712" group-title="Live Channels",NFL RedZone
+#EXTM3U
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone" tvg-logo="https://library.sportingnews.com/styles/twitter_card_120x120/s3/2021-08/nfl-redzone-ftr_iyp9z7817iog1w3foi4tcg2s8.png?itok=LjMlW5d1" group-title="Live Channels",NFL RedZone
 http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/NHL_Network_2012.svg" group-title="Live Channels",NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
