@@ -655,3 +655,11 @@ http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16549
 http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16548
 #EXTINF:-1,USA VIP: MSG2
 http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/16547
+#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586761.m3u8
+#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [HD]
+http://tvpanel.one:80/live/den9179/611carc/586762.m3u8
+#EXTINF:-1 ,SKY SPORTS FOOTBALL [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586763.m3u8
+#EXTINF:-1 ,SKY SPORTS FOOTBALL [HD]
+http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
