@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,http://defaultgen.com:3050/xmltv.php?username=R9YN4ecdXe&password=ZJs7z2yXSw,https://i.mjh.nz/PlutoTV/us.xml"
 #EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="" group-title="IMPORTANT INFOMATION",IMPORTANT INFORMATION
 https://small.fileditchstuff.me/s11/EWmLXPkMncFhDONTEkqC.mp4
-#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC East (Columba)
+#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="ABC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC West (Los Angeles)
+#EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="ABC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC West
 http://74.48.44.156:1234/stream/asd/486/master.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="Live Channels",ACC Network
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
