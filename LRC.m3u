@@ -9,8 +9,6 @@ http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels",Adult Swim West
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aswest.us.m3u8
-#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="Live Channels",A&E
-http://74.48.44.156:1234/stream/asd/205/master.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Live Channels",AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="Live Channels",American Heroes Channel
