@@ -636,3 +636,6 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="WFMZ" tvg-name="WFMZ" tvg-logo="https://yt3.googleusercontent.com/q3XkC3OqhnjbrOqYK66z6uV3TmFMaNQGAhsX2cV_GN4ip2dHygomPxpQxF0m-i-iFz7Dw24gUg=s900-c-k-c0x00ffffff-no-rj",WFMZ
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="ACCDigitalNetwork" tvg-name="ACC Digital Network" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ln0vPd4At0mwojq0cEF5XucwIlaFVoW4ICbftzGmJXdP0=s900-c-k-c0x00ffffff-no-rj",ACC Digital Network
+https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8
