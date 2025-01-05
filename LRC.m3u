@@ -7,10 +7,6 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 http://74.48.44.156:1234/stream/asd/486/master.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="Live Channels",ACC Network
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ActionMAX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/2560px-ActionMax_logo.svg.png" group-title="Live Channels",ActionMAX East
-http://74.48.44.156:1234/stream/asd/211/master.m3u8
-#EXTINF:-1 tvg-id="ActionMAXPacific.us" tvg-name="ActionMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/2560px-ActionMax_logo.svg.png" group-title="Live Channels",ActionMAX West
-http://thevdm.xyz:25461/Jennifer/Year!/34461
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels",Adult Swim East
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels",Adult Swim West
