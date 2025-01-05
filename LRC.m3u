@@ -473,3 +473,30 @@ http://fl2.moveonjoy.com/MLB_1/index.m3u8
 http://fl2.moveonjoy.com/MLB_2/index.m3u8
 #EXTINF:-1 tvg-id="MLB3" tvg-name="MLB 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png",MLB 3
 http://fl2.moveonjoy.com/MLB_3/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="NHL1" tvg-name="NHL 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 1
+http://fl2.moveonjoy.com/NHL_1/index.m3u8
+#EXTINF:-1 tvg-id="NHL2" tvg-name="NHL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 2
+http://fl2.moveonjoy.com/NHL_2/index.m3u8
+#EXTINF:-1 tvg-id="NHL3" tvg-name="NHL 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 3
+http://fl2.moveonjoy.com/NHL_3/index.m3u8
+#EXTINF:-1 tvg-id="NHL4" tvg-name="NHL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 4
+http://fl2.moveonjoy.com/NHL_4/index.m3u8
+#EXTINF:-1 tvg-id="NHL5" tvg-name="NHL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 5
+http://fl2.moveonjoy.com/NHL_5/index.m3u8
+#EXTINF:-1 tvg-id="NHL6" tvg-name="NHL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 6
+http://fl2.moveonjoy.com/NHL_6/index.m3u8
+#EXTINF:-1 tvg-id="NHL7" tvg-name="NHL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 7
+http://fl2.moveonjoy.com/NHL_7/index.m3u8
+#EXTINF:-1 tvg-id="NHL8" tvg-name="NHL 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 8
+http://fl2.moveonjoy.com/NHL_8/index.m3u8
+#EXTINF:-1 tvg-id="NHL9" tvg-name="NHL 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 9
+http://fl2.moveonjoy.com/NHL_9/index.m3u8
+#EXTINF:-1 tvg-id="NHL10" tvg-name="NHL 10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 10
+http://fl2.moveonjoy.com/NHL_10/index.m3u8
+#EXTINF:-1 tvg-id="NHL11" tvg-name="NHL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 11
+http://fl2.moveonjoy.com/NHL_11/index.m3u8
+#EXTINF:-1 tvg-id="NHL12" tvg-name="NHL 12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 12
+http://fl2.moveonjoy.com/NHL_12/index.m3u8
+#EXTINF:-1 tvg-id="NHL13" tvg-name="NHL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",NHL 13
+http://fl2.moveonjoy.com/NHL_13/index.m3u8
