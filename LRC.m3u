@@ -436,33 +436,40 @@ http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5" tvg-name="TSN5",TSN5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL1" tvg-name="NFL 1",NFL 1
+#EXTINF:-1 tvg-id="NFL1" tvg-name="NFL 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 1
 http://fl2.moveonjoy.com/NFL_1/index.m3u8
-#EXTINF:-1 tvg-id="NFL2" tvg-name="NFL 2",NFL 2
+#EXTINF:-1 tvg-id="NFL2" tvg-name="NFL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 2
 http://fl2.moveonjoy.com/NFL_2/index.m3u8
-#EXTINF:-1 tvg-id="NFL3" tvg-name="NFL 3",NFL 3
+#EXTINF:-1 tvg-id="NFL3" tvg-name="NFL 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 3
 http://fl2.moveonjoy.com/NFL_3/index.m3u8
-#EXTINF:-1 tvg-id="NFL4" tvg-name="NFL 4",NFL 4
+#EXTINF:-1 tvg-id="NFL4" tvg-name="NFL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 4
 http://fl2.moveonjoy.com/NFL_4/index.m3u8
-#EXTINF:-1 tvg-id="NFL5" tvg-name="NFL 5",NFL 5
+#EXTINF:-1 tvg-id="NFL5" tvg-name="NFL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 5
 http://fl2.moveonjoy.com/NFL_5/index.m3u8
-#EXTINF:-1 tvg-id="NFL6" tvg-name="NFL 6",NFL 6
+#EXTINF:-1 tvg-id="NFL6" tvg-name="NFL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 6
 http://fl2.moveonjoy.com/NFL_6/index.m3u8
-#EXTINF:-1 tvg-id="NFL7" tvg-name="NFL 7",NFL 7
+#EXTINF:-1 tvg-id="NFL7" tvg-name="NFL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 7
 http://fl2.moveonjoy.com/NFL_7/index.m3u8
-#EXTINF:-1 tvg-id="NFL8" tvg-name="NFL 8",NFL 8
+#EXTINF:-1 tvg-id="NFL8" tvg-name="NFL 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 8
 http://fl2.moveonjoy.com/NFL_8/index.m3u8
-#EXTINF:-1 tvg-id="NFL9" tvg-name="NFL 9",NFL 9
+#EXTINF:-1 tvg-id="NFL9" tvg-name="NFL 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 9
 http://fl2.moveonjoy.com/NFL_9/index.m3u8
-#EXTINF:-1 tvg-id="NFL10" tvg-name="NFL 10",NFL 10
+#EXTINF:-1 tvg-id="NFL10" tvg-name="NFL 10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 10
 http://fl2.moveonjoy.com/NFL_10/index.m3u8
-#EXTINF:-1 tvg-id="NFL11" tvg-name="NFL 11",NFL 11
+#EXTINF:-1 tvg-id="NFL11" tvg-name="NFL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 11
 http://fl2.moveonjoy.com/NFL_11/index.m3u8
-#EXTINF:-1 tvg-id="NFL12" tvg-name="NFL 12",NFL 12
+#EXTINF:-1 tvg-id="NFL12" tvg-name="NFL 12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 12
 http://fl2.moveonjoy.com/NFL_12/index.m3u8
-#EXTINF:-1 tvg-id="NFL13" tvg-name="NFL 13",NFL 13
+#EXTINF:-1 tvg-id="NFL13" tvg-name="NFL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 13
 http://fl2.moveonjoy.com/NFL_13/index.m3u8
-#EXTINF:-1 tvg-id="NFL14" tvg-name="NFL 14",NFL 14
+#EXTINF:-1 tvg-id="NFL14" tvg-name="NFL 14" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 14
 http://fl2.moveonjoy.com/NFL_14/index.m3u8
-#EXTINF:-1 tvg-id="NFL15" tvg-name="NFL 15",NFL 15
+#EXTINF:-1 tvg-id="NFL15" tvg-name="NFL 15" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL 15
 http://fl2.moveonjoy.com/NFL_15/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png",MLB 1
+http://fl2.moveonjoy.com/MLB_1/index.m3u8
+#EXTINF:-1 tvg-id="MLB2" tvg-name="MLB 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png",MLB 2
+http://fl2.moveonjoy.com/MLB_2/index.m3u8
+#EXTINF:-1 tvg-id="MLB3" tvg-name="MLB 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png",MLB 3
+http://fl2.moveonjoy.com/MLB_3/index.m3u8
