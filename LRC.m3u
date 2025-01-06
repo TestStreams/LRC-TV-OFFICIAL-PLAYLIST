@@ -408,8 +408,9 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/WE_tvred.svg/revision/latest?cb=20210606211640" group-title="Live Channels",WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://static.diceplatform.com/prod/AUTOx350/dce.wwe/settings/network_logo_new.png?ts=1552562839" group-title="Live Channels",WWE Network
-https://oklivetv.com/wwe-network-live.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="WweNetworkUSA" tvg-name="WWE Network USA" tvg-logo="https://topembed.pw/logo.png" group-title="Sports",WWE Network USA
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FWweNetwork%5BUSA%5D
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Live Channels",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTM3U
