@@ -10,7 +10,7 @@ http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms" group-title="Live Channels",Adult Swim West
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aswest.us.m3u8
-#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="CBS East" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels",CBS East (New York)
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="CBS East" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels",CBS East
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Live Channels",AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
